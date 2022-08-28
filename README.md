@@ -1,5 +1,5 @@
 # bookshelf-tekkom
-Buku-buku buat semester 3 S1 Teknik Komputer ITS berdasarkan rps, feel free buat clone maupun download
+Buku-buku buat S1 Teknik Komputer ITS berdasarkan rps, feel free buat clone maupun download
 
 <h3>Matematika Diskrit dan Aljabar Linier</h3>
 
