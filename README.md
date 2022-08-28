@@ -1,4 +1,4 @@
-# buku-buku-sem3
+# bookshelf-tekkom
 Buku-buku buat semester 3 S1 Teknik Komputer ITS berdasarkan rps, feel free buat clone maupun download
 
 <h3>Matematika Diskrit dan Aljabar Linier</h3>
@@ -29,7 +29,7 @@ Modern Operating System by Andrew S. Tanenbaum & Herbert Bos [download here](htt
 
 Operating System Internals and Design Principles 7th Edition by William Stallings [download here](https://repository.dinus.ac.id/docs/ajar/Operating_System.pdf)
 
-<h3>Sistem Telekomunikasi</h3>
+<h3>Jaringan Komputer (Merger dari Sistem Telekomunikasi & Jaringan Komputer dan Lab)</h3>
 
 Antennas and Propagation for Wireless Communication Systems 2nd Edition by Simon R. Saunders & Alejandro Aragon Zavala [download here](https://www.academia.edu/12385294/Antennas_and_Propagation_for_Wireless_Communication_Systems)
 
@@ -42,3 +42,25 @@ Fundamental of Telecommunications 2nd Edition by Roger L. Freeman [download here
 Data Structures and Algorithms by Granville Barnett & Luca Del Tongo [download here](https://apps2.mdp.ac.id/perpustakaan/ebook/Karya%20Umum/Dsa.pdf)
 
 Data Structures and Algorithms Analysis 3.2 Edition C++ Version [download here](https://www.academia.edu/40230698/Data_Structures_and_Algorithm_Analysis_Edition_3_2_C_Version)
+
+<h3>Rangkaian Digital</h3>
+
+Digital Design : Principles and Particles 3rd Edition by John F. Wakerly [download here](http://ebook.pldworld.com/_eBook/DIGITAL%20DESIGN%20PRINCIPLES%20&%20PRACTICES%203rd%20Edition/digital_design-third_edition-1.pdf)
+
+Engineering Digital Design 2nd Edition by Richard F. Tinder [download here](https://www.gacbe.ac.in/images/E%20books/Engineering%20Digital%20Design%202nd%20ed.%20-%20R.%20Tinder%20(2000)%20WW.pdf)
+
+<h3>Probabilitas & Statistik</h3>
+
+Applied Statistics and Probability for Engineers Douglas C. Montgomery and George C. Runger 5th Edition 5 2011 [download here](https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/088-Applied-Statistics-and-Probability-for-Engineers-Douglas-C.-Montgomery-George-C.-Runger-Edisi-5-2011.pdf)
+
+Introduction To Probability and Statistics for Engineers and Scientists by Sheldon M. Ross [download here](https://minerva.it.manchester.ac.uk/~saralees/statbook3.pdf)
+
+Probability and Statistics for Engineers and Scientists by R. E. Walpole, R. H. Myers, S. L. Myers, K. Ye [download here](https://math.buet.ac.bd/public/faculty_profile/files/835598806.pdf)
+
+Probability and Statistics Morris H. Degroot, 4th Edition [download here](https://github.com/Honei/bookshelf/blob/master/Math/Probability%20and%20Statistics-Morris%20H.Degroot%2C%204th%20Edition.pdf)
+
+<h3>Desain & Rekayasa Sistem</h3>
+
+Object-Oriented Analysis and Design Understanding System Development with UML 2.0 by John Wileys & Sons [download here](https://github.com/bernardvery/Genap1617/blob/master/apbo/book/Object-Oriented%20Analysis%20and%20Design%20Understanding%20System%20Development%20with%20UML%202.0.pdf)
+
+Software Engineering - A Practitioner's Approach 5th Edition by Roger S. Pressman [download here](https://repository.dinus.ac.id/docs/ajar/Software_Engineering_-_Pressman.pdf)
