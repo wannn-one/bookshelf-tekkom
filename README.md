@@ -9,6 +9,8 @@ Discrete Mathematics and Its Application [download here](https://spada.uns.ac.id
 
 Linear Algebra and Its Application [download here](https://www.zuj.edu.jo/download/linear-algebra-and-its-applications-david-c-lay-pdf/)
 
+Matematika Diskrit 4th Edition by Rinaldi Munir [download here](https://www.academia.edu/29914530/Matematika_Diskrit_RInaldi_Munir)
+
 <h3>Metode Numerik</h3>
 
 Numerical Recipes (The Art of Scientific Computing) 3rd Edition [download here](https://assets.cambridge.org/97805218/80688/frontmatter/9780521880688_frontmatter.pdf)
