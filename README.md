@@ -66,3 +66,7 @@ Probability and Statistics Morris H. Degroot, 4th Edition [download here](https:
 Object-Oriented Analysis and Design Understanding System Development with UML 2.0 by John Wileys & Sons [download here](https://github.com/bernardvery/Genap1617/blob/master/apbo/book/Object-Oriented%20Analysis%20and%20Design%20Understanding%20System%20Development%20with%20UML%202.0.pdf)
 
 Software Engineering - A Practitioner's Approach 5th Edition by Roger S. Pressman [download here](https://repository.dinus.ac.id/docs/ajar/Software_Engineering_-_Pressman.pdf)
+
+<h3>Persamaan Differensial dan Deret</h3>
+
+Schaum's Outlines Differential Equations 4th Edition [download here]()
