@@ -69,4 +69,4 @@ Software Engineering - A Practitioner's Approach 5th Edition by Roger S. Pressma
 
 <h3>Persamaan Differensial dan Deret</h3>
 
-Schaum's Outlines Differential Equations 4th Edition [download here]()
+Schaum's Outlines Differential Equations 4th Edition [download here](https://raw.githubusercontent.com/wannn-one/bookshelf-tekkom/main/Persamaan%20Differensial%20dan%20Deret/Schaum's%20Outlines%20Differential%20Equations%204th%20Edition.pdf)
