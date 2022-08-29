@@ -3,16 +3,16 @@ Buku-buku buat S1 Teknik Komputer ITS berdasarkan rps, feel free buat clone maup
 
 <h1>Daftar Isi</h1>
 
-1. [Matematika Diskrit dan Aljabar Linier](https://github.com/wannn-one/bookshelf-tekkom/edit/main/README.md#matematika-diskrit-dan-aljabar-linier)
-2. [Metode Numerik](https://github.com/wannn-one/bookshelf-tekkom/edit/main/README.md#metode-numerik)
-3. [Rangkaian Elektronika](https://github.com/wannn-one/bookshelf-tekkom/edit/main/README.md#rangkaian-elektronika)
-4. [Sistem Operasi](https://github.com/wannn-one/bookshelf-tekkom/edit/main/README.md#sistem-operasi)
-5. [Jaringan Komputer](https://github.com/wannn-one/bookshelf-tekkom/edit/main/README.md#jaringan-komputer-merger-dari-sistem-telekomunikasi--jaringan-komputer-dan-lab)
-6. [Struktur Data & Analisa Algoritma](https://github.com/wannn-one/bookshelf-tekkom/edit/main/README.md#struktur-data-dan-analisa-algoritma)
-7. [Rangkaian Digital](https://github.com/wannn-one/bookshelf-tekkom/edit/main/README.md#rangkaian-digital)
-8. [Probabilitas & Statistik](https://github.com/wannn-one/bookshelf-tekkom/edit/main/README.md#probabilitas--statistik)
-9. [Desain & Rekayasa Sistem](https://github.com/wannn-one/bookshelf-tekkom/edit/main/README.md#desain--rekayasa-sistem)
-10. [Persamaan Differensial dan Deret](https://github.com/wannn-one/bookshelf-tekkom/edit/main/README.md#persamaan-differensial-dan-deret)
+1. [Matematika Diskrit dan Aljabar Linier](https://github.com/wannn-one/bookshelf-tekkom/edit/main/#matematika-diskrit-dan-aljabar-linier)
+2. [Metode Numerik](https://github.com/wannn-one/bookshelf-tekkom/edit/main/#metode-numerik)
+3. [Rangkaian Elektronika](https://github.com/wannn-one/bookshelf-tekkom/edit/main/#rangkaian-elektronika)
+4. [Sistem Operasi](https://github.com/wannn-one/bookshelf-tekkom/edit/main/#sistem-operasi)
+5. [Jaringan Komputer](https://github.com/wannn-one/bookshelf-tekkom/edit/main/#jaringan-komputer-merger-dari-sistem-telekomunikasi--jaringan-komputer-dan-lab)
+6. [Struktur Data & Analisa Algoritma](https://github.com/wannn-one/bookshelf-tekkom/edit/main/#struktur-data-dan-analisa-algoritma)
+7. [Rangkaian Digital](https://github.com/wannn-one/bookshelf-tekkom/edit/main/#rangkaian-digital)
+8. [Probabilitas & Statistik](https://github.com/wannn-one/bookshelf-tekkom/edit/main/#probabilitas--statistik)
+9. [Desain & Rekayasa Sistem](https://github.com/wannn-one/bookshelf-tekkom/edit/main/#desain--rekayasa-sistem)
+10. [Persamaan Differensial dan Deret](https://github.com/wannn-one/bookshelf-tekkom/edit/main/#persamaan-differensial-dan-deret)
 
 <h1>Download Site</h1>
 This is where i get the link and downloaded it. Sharing is caring, right? 😁 
