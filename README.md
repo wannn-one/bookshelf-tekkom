@@ -27,6 +27,10 @@ Linear Algebra and Its Application [download here](https://www.zuj.edu.jo/downlo
 
 Matematika Diskrit 4th Edition by Rinaldi Munir [download here](https://www.academia.edu/29914530/Matematika_Diskrit_RInaldi_Munir)
 
+Schaum's Outline of Linear Algebra 4th Edition [download here](http://www.astronomia.edu.uy/progs/algebra/Linear_Algebra,_4th_Edition__(2009)Lipschutz-Lipson.pdf)
+
+Elementary Linear Algebra: Applications Version, 11th Edition [download here](https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/037-Elementary-Linear-Algebra-Applications-Version-Howard-Anton-Chris-Rorres-Edisi-1-2013.pdf)
+
 <h3>Metode Numerik</h3>
 
 Numerical Recipes (The Art of Scientific Computing) 3rd Edition [download here](https://assets.cambridge.org/97805218/80688/frontmatter/9780521880688_frontmatter.pdf)
