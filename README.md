@@ -1,35 +1,42 @@
 # bookshelf-tekkom
-Buku-buku buat S1 Teknik Komputer ITS berdasarkan rps, feel free buat clone maupun download
+Buku-buku buat S1 Teknik Komputer ITS berdasarkan rps, feel free buat clone maupun pull request
 
 <h1>Daftar Isi</h1>
 
-1. [Matematika Diskrit dan Aljabar Linier](https://github.com/wannn-one/bookshelf-tekkom#matematika-diskrit-dan-aljabar-linier)
-2. [Metode Numerik](https://github.com/wannn-one/bookshelf-tekkom#metode-numerik)
-3. [Rangkaian Elektronika](https://github.com/wannn-one/bookshelf-tekkom#rangkaian-elektronika)
-4. [Sistem Operasi](https://github.com/wannn-one/bookshelf-tekkom#sistem-operasi)
-5. [Jaringan Komputer](https://github.com/wannn-one/bookshelf-tekkom#jaringan-komputer-merger-dari-sistem-telekomunikasi--jaringan-komputer-dan-lab)
-6. [Struktur Data & Analisa Algoritma](https://github.com/wannn-one/bookshelf-tekkom#struktur-data-dan-analisa-algoritma)
-7. [Rangkaian Digital](https://github.com/wannn-one/bookshelf-tekkom#rangkaian-digital)
-8. [Probabilitas & Statistik](https://github.com/wannn-one/bookshelf-tekkom#probabilitas--statistik)
-9. [Desain & Rekayasa Sistem](https://github.com/wannn-one/bookshelf-tekkom#desain--rekayasa-sistem)
-10. [Persamaan Differensial dan Deret](https://github.com/wannn-one/bookshelf-tekkom#persamaan-differensial-dan-deret)
+1. [Aljabar Linier](https://github.com/wannn-one/bookshelf-tekkom#aljabar-linear)
+2. [Matematika Diskrit](https://github.com/wannn-one/bookshelf-tekkom#matematika-diskrit)
+3. [Metode Numerik](https://github.com/wannn-one/bookshelf-tekkom#metode-numerik)
+4. [Rangkaian Elektronika](https://github.com/wannn-one/bookshelf-tekkom#rangkaian-elektronika)
+5. [Sistem Operasi](https://github.com/wannn-one/bookshelf-tekkom#sistem-operasi)
+6. [Jaringan Komputer](https://github.com/wannn-one/bookshelf-tekkom#jaringan-komputer-merger-dari-sistem-telekomunikasi--jaringan-komputer-dan-lab)
+7. [Struktur Data & Analisa Algoritma](https://github.com/wannn-one/bookshelf-tekkom#struktur-data-dan-analisa-algoritma)
+8. [Rangkaian Digital](https://github.com/wannn-one/bookshelf-tekkom#rangkaian-digital)
+9. [Probabilitas & Statistik](https://github.com/wannn-one/bookshelf-tekkom#probabilitas--statistik)
+10. [Desain & Rekayasa Sistem](https://github.com/wannn-one/bookshelf-tekkom#desain--rekayasa-sistem)
+11. [Persamaan Differensial dan Deret](https://github.com/wannn-one/bookshelf-tekkom#persamaan-differensial-dan-deret)
+12. [Arsitektur dan Organisasi Komputer](https://github.com/wannn-one/bookshelf-tekkom#arsitektur-dan-organisasi-komputer)
+13. [Sistem Mikroprosessor dan Mikrokontroller](https://github.com/wannn-one/bookshelf-tekkom#sistem-mikroprosessor-dan-mikrokontroller)
 
 <h1>Download Site</h1>
 This is where i get the link and downloaded it. Sharing is caring, right? 😁 
 
-<h3>Matematika Diskrit dan Aljabar Linier</h3>
+<h3>Aljabar Linear</h3>
+
+Linear Algebra and Its Application [download here](https://www.zuj.edu.jo/download/linear-algebra-and-its-applications-david-c-lay-pdf/)
+
+Schaum's Outline of Linear Algebra 4th Edition [download here](http://www.astronomia.edu.uy/progs/algebra/Linear_Algebra,_4th_Edition__(2009)Lipschutz-Lipson.pdf)
+
+Linear Algebra and Its Application [download here](https://www.zuj.edu.jo/download/linear-algebra-and-its-applications-david-c-lay-pdf/)
+
+Elementary Linear Algebra: Applications Version, 11th Edition [download here](https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/037-Elementary-Linear-Algebra-Applications-Version-Howard-Anton-Chris-Rorres-Edisi-1-2013.pdf)
+
+<h3>Matematika Diskrit</h3>
 
 Advanced Engineering Mathematics 10th [download here](https://www.academia.edu/32045668/Advanced_Engineering_Mathematics_10th_Edition)
 
 Discrete Mathematics and Its Application [download here](https://spada.uns.ac.id/pluginfile.php/603240/mod_resource/content/3/Discrete%20Mathematics%20and%20Its%20Applications%20-%20Kenneth%20Rosen%20%282012%29.pdf)
 
-Linear Algebra and Its Application [download here](https://www.zuj.edu.jo/download/linear-algebra-and-its-applications-david-c-lay-pdf/)
-
 Matematika Diskrit 4th Edition by Rinaldi Munir [download here](https://www.academia.edu/29914530/Matematika_Diskrit_RInaldi_Munir)
-
-Schaum's Outline of Linear Algebra 4th Edition [download here](http://www.astronomia.edu.uy/progs/algebra/Linear_Algebra,_4th_Edition__(2009)Lipschutz-Lipson.pdf)
-
-Elementary Linear Algebra: Applications Version, 11th Edition [download here](https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/037-Elementary-Linear-Algebra-Applications-Version-Howard-Anton-Chris-Rorres-Edisi-1-2013.pdf)
 
 <h3>Metode Numerik</h3>
 
@@ -90,3 +97,17 @@ Software Engineering - A Practitioner's Approach 5th Edition by Roger S. Pressma
 <h3>Persamaan Differensial dan Deret</h3>
 
 Schaum's Outlines Differential Equations 4th Edition [download here](https://raw.githubusercontent.com/wannn-one/bookshelf-tekkom/main/Persamaan%20Differensial%20dan%20Deret/Schaum's%20Outlines%20Differential%20Equations%204th%20Edition.pdf)
+
+<h3>Arsitektur dan Organisasi Komputer</h3>
+
+Computer System Architecture 3rd Edition by M. Morris Mano [download here](https://www.mbit.edu.in/wp-content/uploads/2020/05/computer-systems-Architecture.pdf)
+
+Digital Computer Electronics 3rd Edition Albert Paul Malvino and Jerald A. Brown-pdf.pdf [download here](https://ia803000.us.archive.org/8/items/367026792DigitalComputerElectronicsAlbertPaulMalvinoAndJeraldABrownPdf1/367026792-Digital-Computer-Electronics-Albert-Paul-Malvino-and-Jerald-A-Brown-pdf%20%281%29.pdf)
+
+<h3>Sistem Mikroprosessor dan Mikrokontroller</h3>
+
+Arduino Microcontroller Processing for Everyone 3rd Edition by Steven F. Barrett [download here](https://pdfcoffee.com/arduino-microcontroller-processing-for-everyone-third-edition-pdf-free.html)
+
+Atmel AVR Microcontroller Primer Programming and Interfacing by Steven F. Barrett [download here](https://www.pdfdrive.com/atmel-avr-microcontroller-primer-programming-and-interfacing-e14007640.html)
+
+The AVR Microcontroller and Embedded System: Using Assembly and C by Muhammad Ali Mazidi [download here](https://www.pdfdrive.com/the-avr-microcontroller-and-embedded-system-by-muhammad-ali-mazidi-e33482989.html)
